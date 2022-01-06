@@ -1,0 +1,24 @@
+Centroid,Coordinates_c,Demand,facility,Coordinates_f,Capacity
+county 1,"(1, 1.5)",351,facility 1,"(1, 2)",281
+county 2,"(3, 1)",230,facility 2,"(2.5, 1)",187
+county 3,"(5.5, 1.5)",529,facility 3,"(5, 1)",200
+county 4,"(1, 4.5 )",339,facility 4,"(6.5, 3.5)",223
+county 5,"(3, 3.5)",360,facility 5,"(1, 5)",281
+county 6,"(5.5, 4.5)",527,facility 6,"(3, 4)",281
+county 7,"(1, 8)",469,facility 7,"(5, 4)",222
+county 8,"(3, 6)",234,facility 8,"(6.5, 5.5)",200
+county 9,"(4.5, 8)",500,facility 9,"(1, 8.5)",250
+,,,facility 10,"(1.5, 9.5)",125
+,,,facility 11,"(8.5, 6)",187
+,,,facility 12,"(5, 8)",300
+,,,facility 13,"(3, 9)",300
+,,,facility 14,"(6, 9)",243
+,,,facility 15,"(1.5, 1)",100
+,,,facility 16,"(3.5, 1.5)",100
+,,,facility 17,"(5.5, 2.5)",100
+,,,facility 18,"(1.5, 3.5)",100
+,,,facility 19,"(3.5, 2.5)",100
+,,,facility 20,"(4.5, 4.5)",100
+,,,facility 21,"(1.5, 6.5)",100
+,,,facility 22,"(3.5, 6.5)",100
+,,,facility 23,"(5.5, 6.5)",100
